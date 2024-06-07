@@ -123,7 +123,7 @@ const Login: React.FunctionComponent<ILoginProps> = () => {
           </Link>
         </p>
       </form>
-      <img src={bg} alt="background" />
+      {/* <img src={bg} alt="background" /> */}
     </div>
   );
 };
